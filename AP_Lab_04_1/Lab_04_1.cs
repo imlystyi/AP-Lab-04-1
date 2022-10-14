@@ -1,8 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Lab_04_1.cs
+// Якубовський Владислав
+// Лабораторна робота № 4.1
+// Цикли.
+// Варіант 24
+using System;
 
 namespace AP_Lab_04_1
 {
